@@ -1,0 +1,5 @@
+# ignore vscode files
+/.vscode/*
+# ignore build files
+/builds/*
+/install/*
